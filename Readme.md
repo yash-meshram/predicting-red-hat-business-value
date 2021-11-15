@@ -39,7 +39,7 @@ date = date_x - date_y
 
 ## Feature Selection
 Lets have a look in training datset. Here we can observe that almost 92% of the elements in columns (from char_1 to char_9) are non-null. Thus we can eliminate these features.
-![image](https://user-images.githubusercontent.com/64315038/140234872-69361e3b-0bd5-4765-b0f7-ff30b41183e1.png)
+![image](![image](https://user-images.githubusercontent.com/64315038/141762041-2110dffa-eec8-4857-9e4e-48b539edfa49.png))
 
 
 ## Traning Model
