@@ -39,7 +39,8 @@ date = date_x - date_y
 
 ## Feature Selection
 Lets have a look in training datset. Here we can observe that almost 92% of the elements in columns (from char_1 to char_9) are non-null. Thus we can eliminate these features.
-![image](https://user-images.githubusercontent.com/64315038/141825289-6ed55df4-17b7-4f00-bdc9-7bf3b1f9fbe6.png)
+
+![Image](/Images/image1.jpg)
 
 ## Traning Model
 Build **RandomForestClassifier** model to predict the outcome
